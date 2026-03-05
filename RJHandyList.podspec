@@ -19,5 +19,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '12.0'
   s.swift_version = '5.0'
 
-  s.source_files = 'RJHandyList/**/*.{swift}'
+  s.source_files = 'RJHandyListDemo/RJHandyList/**/*.{swift}'
 end
