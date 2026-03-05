@@ -222,6 +222,8 @@ tableView.rjht_tableIMP = CustomTableIMP()
 
 RenJiaxinRealy
 
+tag 0.1.0
+
 ## License
 
 RJHandyList is available under the MIT license. See the LICENSE file for more info.
