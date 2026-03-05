@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '12.0'
   s.swift_version = '5.0'
 
-  s.source_files = 'RJHandyListDemo/RJHandyListDemo/RJHandyList/**/*.{h,m,swift}'
+  s.source_files = "RJHandyList/**/*.{h,m,swift}"
 
   # s.resource_bundles = {
   #   'RJHandyList' => ['RJHandyList/Assets/*.png']
