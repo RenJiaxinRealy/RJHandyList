@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RJHandyList'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A Swift utility for making UITableView easier to use.'
 
 # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots/1', 'www.example.com/screenshots/2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'RenJiaxinRealy' => '927453211@qq.com' }
-  s.source           = { :git => 'git@github.com:RenJiaxinRealy/RJHandyList.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/RenJiaxinRealy/RJHandyList.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '12.0'

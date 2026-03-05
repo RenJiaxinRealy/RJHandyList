@@ -6,8 +6,6 @@
 
 RJHandyList 是一个 Swift 编写的 UITableView 工具库，让列表开发更加简单优雅。支持动态列表、模块化开发、MVVM 架构。
 
-> 灵感来源于 YBHandyList (Objective-C)
-
 ## 功能特点
 
 - ✅ 简洁的 API 设计
