@@ -220,7 +220,7 @@ tableView.rjht_tableIMP = CustomTableIMP()
 
 ## 作者
 
-Jin Rookie
+RenJiaxinRealy
 
 ## License
 
