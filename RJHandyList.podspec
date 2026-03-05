@@ -25,14 +25,14 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/RenJiaxinRealy/RJHandyList'
   # s.screenshots     = 'www.example.com/screenshots/1', 'www.example.com/screenshots/2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Jin Rookie' => '927453211@qq.com' }
-  s.source           = { :git => 'https://github.com/RenJiaxinRealy/RJHandyList.git', :tag => s.version.to_s }
+  s.author           = { 'RenJiaxinRealy' => '927453211@qq.com' }
+  s.source           = { :git => 'git@github.com:RenJiaxinRealy/RJHandyList.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '12.0'
   s.swift_version = '5.0'
 
-  s.source_files = 'RJHandyListDemo/RJHandyListDemo/RJHandyList/**/*.{swift}'
+  s.source_files = 'RJHandyListDemo/RJHandyListDemo/RJHandyList/**/*.{h,m,swift}'
 
   # s.resource_bundles = {
   #   'RJHandyList' => ['RJHandyList/Assets/*.png']
