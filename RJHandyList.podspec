@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   modular approach. It supports MVVM architecture, dynamic lists, and easy cell configuration.
                        DESC
 
-  s.homepage         = 'https://github.com/RenJiaxinRealy/RJHandyList.git'
+  s.homepage         = 'https://github.com/RenJiaxinRealy/RJHandyList'
   # s.screenshots     = 'www.example.com/screenshots/1', 'www.example.com/screenshots/2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'RenJiaxinRealy' => '927453211@qq.com' }
